@@ -1491,6 +1491,7 @@ p.uppercase, .p.uppercase,
 .dropdownTrigger,
 .sidebarTrigger {
   cursor: pointer;
+
 }
 
 .shiftImage {
@@ -12325,5 +12326,8 @@ p.remind-43 {
   clear: both;
   display: table;
 }
+
+
+
 
 /*# sourceMappingURL=slides.css.map */
